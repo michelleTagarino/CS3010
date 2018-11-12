@@ -2,6 +2,10 @@
 This JavaFX program was created in Winter of 2016 for an assignment in a User Interfaces course. While this project does not necessarily look aesthetically pleasing, the idea was to create a photo gallery application that was intuitively "easy to use" for the general user. This means that buttons need labels, the buttons' respective locations also mattered, the window pane needed a title for context, etc. This project is one of only a few programming projects that were assigned in this course.
 
 ## Let's Get You Started
+### Prerequisites
+	
+	Java JDK 8
+
 Clone the CS3010 repository:
 	$ git clone https://github.com/michelleTagarino/CS3010.git
 
@@ -17,9 +21,6 @@ Run the project:
 
 	$ java photoslider.PhotoSlider
 
-### Prerequisites
-	
-	Java JDK 8
 
 ## Slider Instructions
 
