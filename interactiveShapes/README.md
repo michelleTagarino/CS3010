@@ -10,7 +10,7 @@ Clone the CS3010 repository:
 	
 	$ git clone https://github.com/michelleTagarino/CS3010.git
 
-In your terminal, cd into the **interactiveShapes/** directory:
+In your terminal, cd into the **interactiveShapes** directory:
 
 	$ cd interactiveShapes/
 
