@@ -25,8 +25,8 @@ Run the project:
 
 ## Slider Instructions
 
-	The whole concept of this project was to create a simple gallery that was so easy to use that it didn't need instructions.
-	In the case that the application was *so* bad (let's hope not), here are the instructions:
-	1. Look at the image.
-	2. Click on the "Next" button to go to the next image.
-	3. Click on the "Previous" button to go to the previous image.
+The whole concept of this project was to create a simple gallery that was so easy to use that it didn't need instructions.
+In the case that the application was *so* bad (let's hope not), here are the instructions:
+1. Look at the image.
+2. Click on the "Next" button to go to the next image.
+3. Click on the "Previous" button to go to the previous image.
