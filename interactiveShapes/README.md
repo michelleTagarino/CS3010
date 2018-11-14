@@ -29,11 +29,11 @@ Add an object using the buttons on the **toolbar**. Select an object by clicking
 
 ### The Toolbar:
 
-[Black Square] - Adds a new rectangle object to the window pane.
-[Circle] - Adds a new ellipse objeccts to the window pane.
-[A] - Adds a new text box object to the window pane.
-[Counter-clockwise Arrow] - Rotates the object counter-clockwise.
-[Clockwise Arrow] - Rotate the object.
-[+] - Increases size of object.
-[-] - Decreases size of object.
-[Checkbox "Flick On"] - Enables the object to continue floating in the direction that a user moves it.
+- [Black Square] - Adds a new rectangle object to the window pane.
+- [Circle] - Adds a new ellipse objeccts to the window pane.
+- [A] - Adds a new text box object to the window pane.
+- [Counter-clockwise Arrow] - Rotates the object counter-clockwise.
+- [Clockwise Arrow] - Rotate the object.
+- [+] - Increases size of object.
+- [-] - Decreases size of object.
+- [Checkbox "Flick On"] - Enables the object to continue floating in the direction that a user moves it.
