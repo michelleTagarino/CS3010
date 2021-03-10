@@ -6,9 +6,9 @@ This JavaFX program was created in Winter of 2016 for an assignment in a User In
 	
 	Java JDK 8
 
-Clone the CS3010 repository:
+Clone the repository:
 	
-	$ git clone https://github.com/michelleTagarino/CS3010.git
+	$ git clone https://github.com/michelleTagarino/UserInterfaces.git
 
 In your terminal, cd into the **interactiveShapes** directory:
 
